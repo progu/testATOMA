@@ -1,3 +1,3 @@
-# My testing Atom text editor
+# My testing Atom text editor project
 
-nothing interesting to you, trust me
+Sorry - nothing interesting to you, trust me
