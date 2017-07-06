@@ -1,4 +1,4 @@
 #!/bin/sh
 
 
-echo 'dupa dupa dupa'
+echo 'cos innego może nawet'
